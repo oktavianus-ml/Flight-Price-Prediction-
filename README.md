@@ -6,5 +6,6 @@ An end-to-end Machine Learning project covering **data preprocessing, explorator
 2. **Data Collection** – Import raw dataset(s) into `data/raw/`
 3. **Data Preprocessing** – Cleaning, handling missing values, encoding, scaling
 4. **EDA & Visualization** – Understand data distribution, correlations, insights
+5. **Hyperparameter Tuning** – Understand data distribution, correlations, insights
 
 
